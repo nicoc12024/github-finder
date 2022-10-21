@@ -17,5 +17,4 @@ https://github-finder-app-sage.vercel.app/
 
 ## Screenshot
 
-![alt text](https://github.com/nicoc12024/react-weather-api/blob/main/public/demo1.png)
-
+![alt text](https://github.com/nicoc12024/github-finder/blob/main/public/demo2.png)
